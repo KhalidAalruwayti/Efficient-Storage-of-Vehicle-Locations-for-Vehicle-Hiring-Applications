@@ -15,4 +15,5 @@ When a customer request a ride, only vehicles within a certain range of this cus
 
 Figure 2: Only vehicles lying within a square of side 2r centered at the customer are contacted (shown in green). To store locations for efficient search, we use a tree structure similar to a BST.
 
-### 3. Tools: Eclipse
+### 3. Tools: 
+Eclipse
